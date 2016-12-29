@@ -43,11 +43,16 @@
 									</div>
 								</div>
 								<div class="img-wrap">
-									<img src="images/blog.png" alt="">
+									<a href="">
+										<img src="images/blog.png" alt="">
+									</a>
 								</div>
 								<div class="content-wrap">
 									<div class="row">
-										<h5 class="left">Workshop</h5>
+										<a href="">
+											
+											<h5 class="left">Workshop</h5>
+										</a>
 									</div>
 									<div class="row">
 										<ul>
@@ -56,7 +61,7 @@
 										</ul>
 									</div>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
-									<a href="#" class="right">Learn more</a>
+									
 								</div>
 							</div>
 						</li>
@@ -80,11 +85,16 @@
 									</div>
 								</div>
 								<div class="img-wrap">
-									<img src="images/blog.png" alt="">
+									<a href="">
+										<img src="images/blog.png" alt="">
+									</a>
 								</div>
 								<div class="content-wrap">
 									<div class="row">
-										<h5 class="left">Workshop</h5>
+										<a href="">
+											
+											<h5 class="left">Workshop</h5>
+										</a>
 									</div>
 									<div class="row">
 										<ul>
@@ -93,7 +103,7 @@
 										</ul>
 									</div>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
-									<a href="#" class="right">Learn more</a>
+									
 								</div>
 							</div>
 						</li>
@@ -117,11 +127,16 @@
 									</div>
 								</div>
 								<div class="img-wrap">
-									<img src="images/blog.png" alt="">
+									<a href="">
+										<img src="images/blog.png" alt="">
+									</a>
 								</div>
 								<div class="content-wrap">
 									<div class="row">
-										<h5 class="left">Workshop</h5>
+										<a href="">
+											
+											<h5 class="left">Workshop</h5>
+										</a>
 									</div>
 									<div class="row">
 										<ul>
@@ -130,7 +145,7 @@
 										</ul>
 									</div>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
-									<a href="#" class="right">Learn more</a>
+									
 								</div>
 							</div>
 						</li>
@@ -154,11 +169,16 @@
 									</div>
 								</div>
 								<div class="img-wrap">
-									<img src="images/blog.png" alt="">
+									<a href="">
+										<img src="images/blog.png" alt="">
+									</a>
 								</div>
 								<div class="content-wrap">
 									<div class="row">
-										<h5 class="left">Workshop</h5>
+										<a href="">
+											
+											<h5 class="left">Workshop</h5>
+										</a>
 									</div>
 									<div class="row">
 										<ul>
@@ -167,7 +187,7 @@
 										</ul>
 									</div>
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
-									<a href="#" class="right">Learn more</a>
+									
 								</div>
 							</div>
 						</li>

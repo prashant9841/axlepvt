@@ -128,6 +128,10 @@ header.page-header {
 				padding-top: 12px;
 				img {
 					width: 40px;
+
+					@include mobile {
+						width: 32px;
+					}
 				}
 			}
 
@@ -240,6 +244,19 @@ header.page-header {
 							}
 						}
 					}
+
+					@include mobile {
+						a {
+							h4 {
+								font-size: 18px;
+							}
+
+							p {
+								font-size: 11px;
+								text-transform: capitalize;
+							}
+						}
+					}
 				}
 			}
 		}
@@ -346,6 +363,7 @@ header.page-header {
 				.nav-close {
 				    right: 10px;
 				    top: 12px;
+				    padding: 2px 5px;
 				}
 			}
 
@@ -401,6 +419,12 @@ header.page-header.show-it {
 	padding: 5px;
 	z-index: 9999;
 	img {width: 95px;}
+
+	@include mobile {
+		img {
+			width: 21vw;
+		}
+	}
 }
 
 .page-wrap {
@@ -441,6 +465,19 @@ section.banner {
 		font-size: 25px;
 		cursor: pointer;
 		z-index: 99999999;
+
+		@include tab-portrait {
+			top: 13px;
+			transform: translateY(0);
+			right: 0;
+			left: auto;
+
+		}
+
+		@include mobile {
+			top: 5px;
+			font-size: 21px;
+		}
 	}
 }
 
@@ -470,6 +507,14 @@ section {
 				// margin: 0;
 				@include line-clamp(20px, 3);
 				margin-bottom: 0;
+
+			}
+			@include mobile {
+				margin-left: 20px;
+				p {
+					width: 90%;
+					
+				}
 			}
 		}
 
@@ -1198,6 +1243,13 @@ section.portfolio {
 				@include tab {
 					height: 32vh;
 				}
+				@include tab-portrait {
+					height: 18vh;
+				}
+
+				@include mobile {
+					height: 40vh;
+				} 
 
 				
 
@@ -1287,7 +1339,22 @@ section.portfolio {
 				.content-wrap {
 					bottom: 5px;
 				}
+
+
+				@include tab-portrait {
+					height: 38vh !important;
+					.title-wrap {
+						.left {
+							display: none;
+						}
+					}
+				}
+				@include mobile {
+					height: 75vh !important;
+				}
+				
 			}
+
 		}
 	}
 }
@@ -1305,6 +1372,8 @@ section.blog {
 			margin: 0 2% !important;
 		}
 	}
+
+
 	
 
 	.blog-lists {
@@ -1324,12 +1393,13 @@ section.blog {
 
 
 				@include tab {
-					height: 265px;
+					height: 60vh;
 				}
 
 				&:hover {
 					box-shadow: 2px 3px 6px rgba(#000, 0.3);
 				}
+
 			}
 
 			.title-wrap {
@@ -1417,6 +1487,18 @@ section.blog {
 
 	.section-footer {
 		margin-top: 50px;
+	}
+
+	@include mobile {
+
+		.wrap {
+			height: 75vh !important;
+		}
+		.title-wrap {
+			.left {
+				display: none;
+			}
+		}
 	}
 }
 
@@ -1578,6 +1660,23 @@ footer.page-footer {
 			top: 50%;
 			transform: translateY(-50%);
 			text-shadow: 2px 2px 2px rgba($primary-color - 50, 0.62);
+
+			@include tab {
+				font-size: 72px;
+				width: 80%;
+				text-align: center;
+				right: 50%;
+				transform: translate(50%, -50%);
+			}
+
+			@include mobile {
+				font-size: 36px;
+			}
+		}
+
+		@include tab-portrait {
+			width: 100%;
+			height: 50%;
 		}
 	}
 	.page-img {
@@ -1585,6 +1684,15 @@ footer.page-footer {
 		height: 100%;
 		overflow: hidden;
 		float: left;
+
+		img {
+			width: 100% !important;
+		}
+
+		@include tab-portrait {
+			width: 100%;
+			height: 50%;
+		}
 	}
 
 
@@ -1637,6 +1745,20 @@ footer.page-footer {
 			img {
 			    width: 35vw;
 			    margin-left: -4vw;
+
+			    @include mobile {
+			    	margin: 50px 0;			    	
+				    width: 120%;
+				    margin-left: -12vw;
+			    }
+			}
+
+			@include tab-portrait {
+				width: 80%;
+			}
+
+			@include mobile {
+				width: 100%;
 			}
 		}
 	}
@@ -1841,6 +1963,22 @@ footer.page-footer {
 			width: 80%;
 			margin: 0 auto;
 			padding-top: 15%;
+
+			@include tab {
+				padding-top: 28%;
+
+				.img-wrap {
+					height: 25vh;
+
+					img {
+						position: absolute;
+						left: 0; 
+						right: 0;
+						height: 25vh;
+						margin: auto;
+					}
+				}
+			}
 		}
 	}
 	.plan {
@@ -1852,6 +1990,22 @@ footer.page-footer {
 			width: 80%;
 			margin: 0 auto;
 			padding-top: 15%;
+
+			@include tab {
+				padding-top: 28%;
+
+				.img-wrap {
+					height: 25vh;
+
+					img {
+						position: absolute;
+						left: 0; 
+						right: 0;
+						height: 25vh;
+						margin: auto;
+					}
+				}
+			}
 			color: #fff;
 		}
 	}
@@ -1864,6 +2018,22 @@ footer.page-footer {
 			width: 80%;
 			margin: 0 auto;
 			padding-top: 15%;
+
+			@include tab {
+				padding-top: 28%;
+
+				.img-wrap {
+					height: 25vh;
+
+					img {
+						position: absolute;
+						left: 0; 
+						right: 0;
+						height: 25vh;
+						margin: auto;
+					}
+				}
+			}
 		}
 	}
 	.happen {
@@ -1875,6 +2045,22 @@ footer.page-footer {
 			width: 80%;
 			margin: 0 auto;
 			padding-top: 15%;
+
+			@include tab {
+				padding-top: 28%;
+
+				.img-wrap {
+					height: 25vh;
+
+					img {
+						position: absolute;
+						left: 0; 
+						right: 0;
+						height: 25vh;
+						margin: auto;
+					}
+				}
+			}
 			color: #fff;
 		}
 	}
@@ -2116,15 +2302,32 @@ footer.page-footer {
 						line-height: 75px;
 					}
 				}
+
+				@include mobile {
+					.col {
+						margin-left: 0 !important;
+						margin-bottom: 15px;
+					}
+					input, textarea {
+						width: 100% !important;
+						margin-left: 0 !important;
+					}
+
+					label {
+						position: absolute;
+						top: -25px;
+					}
+				}
 			}
 		}
 
 		.contact-details {
 			background: #fff;
 			margin-top: 5px;
-			margin-bottom: 10px;
+			margin-bottom: 100px;
 
 			ul {
+				padding: 0 30px;
 				width: 35%;
 				float: left;
 
@@ -2139,11 +2342,26 @@ footer.page-footer {
 						margin-right: 15px;
 					}
 				}
+
+				@include mobile {
+					width: 100%;
+					padding: 0 20px;
+				}
 			}
 
 			.map-div {
 				width: 65%;
 				float: right;
+
+				@include mobile {
+					width: 100%;
+				}
+			}
+		}
+
+		@include tab {
+			.wrap {
+				width: 90%;
 			}
 		}
 	}
@@ -2165,6 +2383,17 @@ footer.page-footer {
 				position: relative;
 				padding: 10px;
 				background: #fff;
+
+				@include tab {
+					height: 32vh;
+				}
+				@include tab-portrait {
+					height: 18vh;
+				}
+
+				@include mobile {
+					height: 40vh;
+				}
 
 				
 
@@ -2189,8 +2418,8 @@ footer.page-footer {
 				width: 95%;
 				padding: 50px;
 				background: rgba(47, 47, 47, 0.5);
-					color: #fff;
-					z-index: 99;
+				color: #fff;
+				z-index: 99;
 
 				.a-wrap	 {					
 				    height: 100%;
@@ -2211,6 +2440,14 @@ footer.page-footer {
 					p {
 						text-align: center;
 						margin-top: 20px;
+					}
+				}
+
+				@include mobile {
+					padding: 15px;
+					padding: 15px;
+					h5 {
+						margin: 0;
 					}
 				}
 				

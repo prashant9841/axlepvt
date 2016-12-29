@@ -14,7 +14,7 @@
 			</div>
 		</section>
 
-		<section class="blog">
+		<section class="">
 			<div class="row">
 				<div class="section-title m10 offset-m2 col">
 					<h3 class="wow fadeIn">Portfolio</h3>

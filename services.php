@@ -83,7 +83,7 @@
 
 			<div class="row listen">
 				<div class="wrap">
-					<div class="col s12 m6">
+					<div class="col s12 m6 img-wrap">
 						<img src="images/listen.png" alt="We Listen">
 					</div>
 					<div class="col s12 m6">
@@ -99,7 +99,7 @@
 						<h5>Lorem ipsum dolor sit amet, consectetur.</h5>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos repellat ex amet ad saepe deserunt dolores! Explicabo, nobis.</p>
 					</div>
-					<div class="col s12 m6">
+					<div class="col s12 m6 img-wrap">
 						<img src="images/plan.png" alt="We Listen">
 					</div>
 				</div>
@@ -107,7 +107,7 @@
 
 			<div class="row review">
 				<div class="wrap">
-					<div class="col s12 m6">
+					<div class="col s12 m6 img-wrap">
 						<img src="images/review.png" alt="We Listen">
 					</div>
 					<div class="col s12 m6">
@@ -123,7 +123,7 @@
 						<h5>Lorem ipsum dolor sit amet, consectetur.</h5>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos repellat ex amet ad saepe deserunt dolores! Explicabo, nobis.</p>
 					</div>
-					<div class="col s12 m6">
+					<div class="col s12 m6 img-wrap">
 						<img src="images/happen.png" alt="We Listen">
 					</div>
 				</div>
