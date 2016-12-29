@@ -22,55 +22,61 @@
 						<div class="img-wrap">
 							<img src="images/stragety.png" alt="">
 						</div>
-						<p class="flow">Strategy</p>
+						<a href="strategy.php">
+							<p class="flow">Strategy</p>
+						</a>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
-						<a href="strategy.php">View-more</a>
 					</li>
 					<li class="col s12 m4" >
 						<div class="img-wrap">
 							<img src="images/designing.png" alt="">
 						</div>
-						<p class="flow">Design</p>
+						<a href="design.php">
+							<p class="flow">Design</p>
+						</a>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
-						<a href="design.php">View-more</a>
 					</li>
 					<li class="col s12 m4" >
 						<div class="img-wrap">
 							<img src="images/development.png" alt="">
 						</div>
-						<p class="flow">Development</p>
+						<a href="development.php">
+							<p class="flow">Development</p>
+						</a>
 
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
-						<a href="development.php">View-more</a>
 					</li>
 					<li class="col s12 m4" >
 						<div class="img-wrap">
 							<img src="images/innovation.png" alt="">
 						</div>
-						<p class="flow">Innovation</p>
+						<a href="single-service.php">
+							<p class="flow">Innovation</p>
+						</a>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
-						<a href="single-service.php">View-more</a>
 					</li>
 					<li class="col s12 m4" >
 						<div class="img-wrap">
 							<img src="images/consultant.png" alt="">
 						</div>
-						<p class="flow">Consultant</p>
+						<a href="single-service.php">
+							<p class="flow">Consultant</p>
+						</a>
 						
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
-						<a href="single-service.php">View-more</a>
 					</li>
 					<li class="col s12 m4">
 						<div class="img-wrap">
 							<img src="images/branding.png" alt="">
 						</div>
-						<p class="flow">Branding</p>
+						<a href="branding.php">
+							<p class="flow">Branding</p>
+						</a>
 
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
-						<a href="branding.php">View-more</a>
 					</li>
 				</ul>				
 			</div>

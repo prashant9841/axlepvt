@@ -61,66 +61,107 @@
 				<div class="section-content">
 					<div class="row">
 						<ul class="portfolio-lists">
-							<li class="wow fadeIn" data-wow-delay="0.1s"> 
+						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
+							<div class="wrap">
 								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
+									<div class="a-wrap">
+										<h5 class="title">Portfolio Title</h5>
+										<p>Read More.</p>									
+									</div>
+									
 								</a>
-								<img src="images/portfolio.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.2s"> 
+								<div class="img-wrap">
+									<img src="images/portfolio.png" alt="">
+								</div>
+							</div>
+						</li>
+
+						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
+							<div class="wrap">
 								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
+									<div class="a-wrap">
+										<h5 class="title">Portfolio Title</h5>
+										<p>Read More.</p>									
+									</div>
+									
 								</a>
-								<img src="images/portfolio2.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.3s"> 
+								<div class="img-wrap">
+									<img src="images/portfolio3.png" alt="">
+								</div>
+							</div>
+						</li>
+
+						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
+							<div class="wrap">
 								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
+									<div class="a-wrap">
+										<h5 class="title">Portfolio Title</h5>
+										<p>Read More.</p>									
+									</div>
+									
 								</a>
-								<img src="images/portfolio3.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.4s"> 
+								<div class="img-wrap">
+									<img src="images/portfolio2.png" alt="">
+								</div>
+							</div>
+						</li>
+						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
+							<div class="wrap">
 								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
+									<div class="a-wrap">
+										<h5 class="title">Portfolio Title</h5>
+										<p>Read More.</p>									
+									</div>
+									
 								</a>
-								<img src="images/portfolio.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.5s"> 
+								<div class="img-wrap">
+									<img src="images/portfolio3.png" alt="">
+								</div>
+							</div>
+						</li>
+						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
+							<div class="wrap">
+
 								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
+									<div class="a-wrap">
+										<h5 class="title">Portfolio Title</h5>
+										<p>Read More.</p>									
+									</div>
+									
 								</a>
-								<img src="images/portfolio2.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.6s"> 
+								<div class="img-wrap">
+									<img src="images/portfolio2.png" alt="">
+								</div>
+							</div>
+						</li>
+						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
+							<div class="wrap">
 								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
+									<div class="a-wrap">
+										<h5 class="title">Portfolio Title</h5>
+										<p>Read More.</p>									
+									</div>
+									
 								</a>
-								<img src="images/portfolio3.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.7s"> 
+								<div class="img-wrap">
+									<img src="images/portfolio.png" alt="">
+								</div>
+							</div>
+						</li>
+						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
+							<div class="wrap">
 								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
+									<div class="a-wrap">
+										<h5 class="title">Portfolio Title</h5>
+										<p>Read More.</p>									
+									</div>
+									
 								</a>
-								<img src="images/portfolio.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.8s"> 
-								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
-								</a>
-								<img src="images/portfolio2.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="0.9s"> 
-								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
-								</a>
-								<img src="images/portfolio3.png" alt="">
-							</li>
-							<li class="wow fadeIn" data-wow-delay="1s"> 
-								<a href="#" class="overlay-div">
-									<h5 class="title">Portfolio Title</h5>
-								</a>
-								<img src="images/portfolio3.png" alt="">
-							</li>
+								<div class="img-wrap">
+									<img src="images/portfolio.png" alt="">
+								</div>
+							</div>
+						</li>
 						</ul>
 					</div>
 				</div>

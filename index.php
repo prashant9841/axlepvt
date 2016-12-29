@@ -256,30 +256,30 @@
 
 					<div class="news-item wow fadeIn">
 						<div class="img-wrap">
-							<!-- <img src="" alt=""> -->
+							<img src="images/business.png" alt="">
 						</div>
 						<div class="content-wrap">
-							<h4>About Us</h4>
+							<h4>Business Applications</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos cum blanditiis dolorem iste, ad quas eveniet reiciendis aliquam laboriosam labore sapiente, nisi modi voluptatibus.</p>
 						</div>
 					</div>
 
 					<div class="news-item wow fadeIn" data-wow-delay="0.2s">
 						<div class="img-wrap">
-							<!-- <img src="" alt=""> -->
+							<img src="images/social.png" alt="">
 						</div>
 						<div class="content-wrap">
-							<h4>Portfolio</h4>
+							<h4>Social Media Marketing</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos cum blanditiis dolorem iste, ad quas eveniet reiciendis aliquam laboriosam labore sapiente, nisi modi voluptatibus.</p>
 						</div>
 					</div>
 
 					<div class="news-item wow fadeIn" data-wow-delay="0.4s">
 						<div class="img-wrap">
-							<!-- <img src="" alt=""> -->
+							<img src="images/think.png" alt="">
 						</div>
 						<div class="content-wrap">
-							<h4>About Us</h4>
+							<h4>Think Big</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos cum blanditiis dolorem iste, ad quas eveniet reiciendis aliquam laboriosam labore sapiente, nisi modi voluptatibus.</p>
 						</div>
 					</div>

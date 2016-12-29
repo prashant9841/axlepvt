@@ -425,6 +425,11 @@ section.banner {
 
 		img {
 			width: 100%;
+
+			@include tab {
+				height: 100%;
+				width: auto;
+			}
 		}
 	}
 
@@ -445,7 +450,7 @@ section {
 		margin-bottom: 0;
 
 		.section-title {
-			padding: 20px;
+			padding: 75px 20px;
 
 			h3 {
 				font-size: 32px;
@@ -1190,6 +1195,10 @@ section.portfolio {
 				padding: 10px;
 				background: #fff;
 
+				@include tab {
+					height: 32vh;
+				}
+
 				
 
 			}
@@ -1273,7 +1282,11 @@ section.portfolio {
 			}
 
 			.wrap {
-				height: auto !important;
+				height: 450px !important;
+
+				.content-wrap {
+					bottom: 5px;
+				}
 			}
 		}
 	}
@@ -1290,12 +1303,6 @@ section.blog {
 		.section-content {
 			width: 96% !important;
 			margin: 0 2% !important;
-		}
-	}
-	@include tab-landscape {
-		.section-content {
-			width: 80% !important;
-			margin: 0 10% !important;
 		}
 	}
 	
@@ -1415,36 +1422,47 @@ section.blog {
 
 
 section.news {
+	// height: 100vh;
 	.news-item {
 		width: 33%;
 		float: left;
+		padding: 75px 0 50px;
 
 		.img-wrap {
-			height: 460px;
-			background: #5a5a5a;
+
+			min-height: 285px;
+
+			@include tab {
+				min-height: 225px;
+			}
+
+			img {
+				width: 70%;
+				margin: 0 15%;
+			}
 		}
 
 		.content-wrap {
+			padding: 0 40px;
+			text-align: center;
 			h4 {
-				text-transform: uppercase;
-				font-size: 24px;
+				font-size: 22px;
 			}
 
 			p {
-				font-size: 12px;
-				@include line-clamp(20px, 3);
+				font-size: 15px;
+				@include line-clamp(21px, 3);
 				width: 80%;
+				margin: 0 auto;
+			}
+
+			@include tab {
+				padding: 0;
 			}
 		}
 
 		&:last-child {
 			width: 34%;
-		}
-
-		&:nth-child(2) {
-			.img-wrap {
-				background: #a5a5a5;
-			}
 		}
 	}
 
