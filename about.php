@@ -19,7 +19,7 @@
 				<div class="row">
 					<div class="col s12 m6">
 						<h3>Welcome</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident odit ad placeat corporis autem voluptate dignissimos, corrupti velit sunt, veritatis enim culpa. Harum repudiandae deleniti aliquam placeat, dolore, quae natus!</p>
+						<p>Welcome to the age of innovation and technology. We invite you to become a bigger part of the picture while developing your next dream project, whether be it a normal site or enterprise software  that encompasses all your needs. We embark latest technologies which keeps of ahead of the game with user centric design. <br>Welcome to Axle. Welcome Home. </p>
 					</div>
 					<div class="col s12 m6">
 						<img src="images/about.png" alt="">
@@ -50,8 +50,14 @@
 			<div class="wrap">
 				<div class="row">
 					<div class="col s12 m10 offset-m1">
-						<h3>Welcome</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident odit ad placeat corporis autem voluptate dignissimos, corrupti velit sunt, veritatis enim culpa. Harum repudiandae deleniti aliquam placeat, dolore, quae natus!</p>
+						<h3>Our Team</h3>
+						<p>
+							Innovative computer enthusiasts individuals who truly believe the perks of technology. <br>
+							Creative and free thinkers who evaluate and create the perfect design to target a group. <br>
+							Goal oriented team ,who helps you to ship the product that you always wanted. <br>
+							Our goal is to make you connect with your customers/ users. <br>
+
+						</p>
 					</div>
 					
 				</div>			
@@ -59,7 +65,7 @@
 			<div class="row">
 				<div class="section-footer">
 					<div class="row">
-						<a href="http://axle.com.np/portfolio.php" class="wow zoomIn">view all works</a>
+						<a href="http://axle.com.np/portfolio" class="wow zoomIn">view all works</a>
 					</div>
 				</div>
 			</div>

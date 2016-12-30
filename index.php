@@ -17,9 +17,9 @@
 				</div>
 				<div class="services-lists">
 					<ul>
-						<li class="wow fadeIn" data-wow-delay="0.6s"><a href="strategy.php">Strategy</a><div class="border"></div></li>
-						<li class="wow fadeIn" data-wow-delay="0.8s"><a href="design.php">Design</a><div class="border"></div></li>
-						<li class="wow fadeIn" data-wow-delay="1s"><a href="development.php">Development</a><div class="border"></div></li>
+						<li class="wow fadeIn" data-wow-delay="0.6s"><a href="strategy">Strategy</a><div class="border"></div></li>
+						<li class="wow fadeIn" data-wow-delay="0.8s"><a href="design">Design</a><div class="border"></div></li>
+						<li class="wow fadeIn" data-wow-delay="1s"><a href="development">Development</a><div class="border"></div></li>
 						<li class="wow fadeIn" data-wow-delay="1.2s"><a href="#">Innovation</a><div class="border"></div></li>
 					</ul>
 				</div>
@@ -50,7 +50,7 @@
 				<div class="section-title m10 offset-m2 col">
 					<h3 class="wow fadeIn">Works</h3>
 					<div class="border-bottom wow fadeInLeft"></div>
-					<p class="flow wow fadeIn" data-wow-delay=0.3s>We are self-sufficent inspired form Nature and Learnt to make Dreams come True With Technology And it is expressed in our works </p>
+					<p class="flow wow fadeIn" data-wow-delay=0.3s>Some of our handcrafted creative products that we’ve had the pleasure of developing and  helped people and business connect with their customers & users. We have listed some our works that we’d like to share with everyone.  </p>
 				</div>
 				<div class="section-content">
 					<div class="row">
@@ -59,7 +59,7 @@
 							<div class="wrap">
 								<a href="http://behemppy.com" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">Portfolio Title</h5>
+										<h5 class="title">Be Hemppy</h5>
 										<p>Read More.</p>									
 									</div>
 									
@@ -74,7 +74,7 @@
 							<div class="wrap">
 								<a href="http://hotelshivasdream.com/ " class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">hotel shivas dream</h5>
+										<h5 class="title">Hotel Shivas Dream</h5>
 										<p>Read More.</p>									
 									</div>
 									
@@ -89,7 +89,7 @@
 							<div class="wrap">
 								<a href="http://earlyrocket.com/" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">early rocket</h5>
+										<h5 class="title">Early Rocket</h5>
 										<p>Read More.</p>									
 									</div>
 									
@@ -118,7 +118,7 @@
 
 								<a href="http://www.obworkerseu.com/" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">obworkerseu</h5>
+										<h5 class="title">OB Workers EU</h5>
 										<p>Read More.</p>									
 									</div>
 									
@@ -132,7 +132,7 @@
 							<div class="wrap">
 								<a href="http://www.juasnepal.com/" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">juasnepal</h5>
+										<h5 class="title">Juas Nepal</h5>
 										<p>Read More.</p>									
 									</div>
 									
@@ -147,7 +147,7 @@
 				</div>
 				<div class="section-footer">
 					<div class="row">
-						<a href="http://axle.com.np/portfolio.php" class="wow zoomIn">view all works</a>
+						<a href="http://axle.com.np/portfolio" class="wow zoomIn">View All Works</a>
 					</div>
 				</div>
 			</div>
@@ -158,7 +158,9 @@
 				<div class="section-title m10 offset-m2 col">
 					<h3 class="wow fadeIn">Our Blog</h3>
 					<div class="border-bottom wow fadeInLeft"></div>
-					<p class="flow wow fadeIn" data-wow-delay=0.3s>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat quis cumque pariatur error perspiciatis, tenetur sapiente, fuga deleniti exercitationem consequatur voluptatem facere maiores saepe quidem eveniet quia voluptatum iure facilis!</p>
+					<p class="flow wow fadeIn" data-wow-delay=0.3s>
+						Catch up us on our blog to know what we’ve been up to these days. Increase your wealth of information by reading our blog.
+					</p>
 				</div>
 				<div class="section-content s12 m10 offset-m1 col">
 					<ul class="row blog-lists">
@@ -245,7 +247,7 @@
 				<div class="row"></div>
 				<div class="section-footer">
 					<div class="row">
-						<a href="http://axle.com.np/blog.php" class="wow zoomIn">Read Us More</a>
+						<a href="http://axle.com.np/blog" class="wow zoomIn">Read Us More</a>
 					</div>
 				</div>
 			</div>
@@ -261,7 +263,7 @@
 						</div>
 						<div class="content-wrap">
 							<h4>Business Applications</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos cum blanditiis dolorem iste, ad quas eveniet reiciendis aliquam laboriosam labore sapiente, nisi modi voluptatibus.</p>
+							<p>Boost productivity of your business by developing full-stack applications that runs smoothly across all devices. We also provide monitoring and maintenance for your applications.</p>
 						</div>
 					</div>
 
@@ -271,7 +273,7 @@
 						</div>
 						<div class="content-wrap">
 							<h4>Social Media Marketing</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos cum blanditiis dolorem iste, ad quas eveniet reiciendis aliquam laboriosam labore sapiente, nisi modi voluptatibus.</p>
+							<p>Reach your target audience with social media marketing.Be aware, you might get overflowed by the number of customers.</p>
 						</div>
 					</div>
 
@@ -281,14 +283,14 @@
 						</div>
 						<div class="content-wrap">
 							<h4>Think Big</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quos cum blanditiis dolorem iste, ad quas eveniet reiciendis aliquam laboriosam labore sapiente, nisi modi voluptatibus.</p>
+							<p>We are creative free thinkers incorporating the technology's at full potential. We see the big picture to every ideas and implement in our products. </p>
 						</div>
 					</div>
 
 				</div>			
 				<div class="section-footer">
 					<div class="row">
-						<a href="http://axle.com.np/contact.php" class="wow zoomIn">Start A Project</a>
+						<a href="http://axle.com.np/contact" class="wow zoomIn">Start A Project</a>
 					</div>
 				</div>
 			</div>

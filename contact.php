@@ -16,12 +16,12 @@
 
 		<section class="contact-form row">
 			<div class="wrap">
-				<p class="flow">Say Hello! We will invite you and believe me you will enjoy it</p>
+				<p class="flow">Say Hello! Get to know the creative people that make the organization run smooth or drop us a line of your suggestions.  We will invite you and believe me you will enjoy it</p>
 
 				<div class="contact-details form-div">
 					<div class="form-head">
 						<h4>Contact details</h4>
-						<p>Lorem ipsum dolor.</p>
+						<p>Visit our office</p>
 					</div>
 					<div class="row">
 						<ul>
@@ -42,7 +42,7 @@
 				<div class="form-div">
 					<div class="form-head">
 						<h4>Contact Us</h4>
-						<p>Lorem ipsum dolor.</p>
+						<p>Drop us a line</p>
 					</div>
 					<form method=" " action=" ">
 						<div class="row">

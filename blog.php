@@ -19,7 +19,7 @@
 				<div class="section-title m10 offset-m2 col">
 					<h3 class="wow fadeIn">Blog</h3>
 					<div class="border-bottom wow fadeInLeft"></div>
-					<p class="flow wow fadeIn" data-wow-delay=0.3s>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat quis cumque pariatur error perspiciatis, tenetur sapiente, fuga deleniti exercitationem consequatur voluptatem facere maiores saepe quidem eveniet quia voluptatum iure facilis!</p>
+					<p class="flow wow fadeIn" data-wow-delay=0.3s>Catch up us on our blog to know what we’ve been up to these days. Increase your wealth of information by reading our blog.</p>
 				</div>
 				<div class="section-content s10 m8 offset-m2 offset-s1 col">
 					<ul class="row blog-lists">
