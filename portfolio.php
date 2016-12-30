@@ -25,7 +25,7 @@
 					<ul class="row portfolio-lists">
 						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
 							<div class="wrap">
-								<a href="#" class="overlay-div">
+								<a href="http://behemppy.com" class="overlay-div" target="_blank">
 									<div class="a-wrap">
 										<h5 class="title">Portfolio Title</h5>
 										<p>Read More.</p>									
@@ -33,94 +33,80 @@
 									
 								</a>
 								<div class="img-wrap">
-									<img src="images/portfolio.png" alt="">
+									<img src="images/portfolio/hemp.png" alt="">
 								</div>
 							</div>
 						</li>
 
 						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
 							<div class="wrap">
-								<a href="#" class="overlay-div">
+								<a href="http://hotelshivasdream.com/ " class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">Portfolio Title</h5>
+										<h5 class="title">hotel shivas dream</h5>
 										<p>Read More.</p>									
 									</div>
 									
 								</a>
 								<div class="img-wrap">
-									<img src="images/portfolio3.png" alt="">
+									<img src="images/portfolio/hotelshivasdream.png" alt="">
 								</div>
 							</div>
 						</li>
 
 						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
 							<div class="wrap">
-								<a href="#" class="overlay-div">
+								<a href="http://earlyrocket.com/" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">Portfolio Title</h5>
+										<h5 class="title">early rocket</h5>
 										<p>Read More.</p>									
 									</div>
 									
 								</a>
 								<div class="img-wrap">
-									<img src="images/portfolio2.png" alt="">
+									<img src="images/portfolio/earlyrocket.png" alt="">
 								</div>
 							</div>
 						</li>
 						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
 							<div class="wrap">
-								<a href="#" class="overlay-div">
+								<a href="http://neptrip.com/" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">Portfolio Title</h5>
+										<h5 class="title">Neptrip</h5>
 										<p>Read More.</p>									
 									</div>
 									
 								</a>
 								<div class="img-wrap">
-									<img src="images/portfolio3.png" alt="">
+									<img src="images/portfolio/neptrip.png" alt="">
 								</div>
 							</div>
 						</li>
 						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
 							<div class="wrap">
 
-								<a href="#" class="overlay-div">
+								<a href="http://www.obworkerseu.com/" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">Portfolio Title</h5>
+										<h5 class="title">obworkerseu</h5>
 										<p>Read More.</p>									
 									</div>
 									
 								</a>
 								<div class="img-wrap">
-									<img src="images/portfolio2.png" alt="">
+									<img src="images/portfolio/ob.png" alt="">
 								</div>
 							</div>
 						</li>
 						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
 							<div class="wrap">
-								<a href="#" class="overlay-div">
+								<a href="http://www.juasnepal.com/" class="overlay-div" target="_blank">
 									<div class="a-wrap">
-										<h5 class="title">Portfolio Title</h5>
+										<h5 class="title">juasnepal</h5>
 										<p>Read More.</p>									
 									</div>
 									
 								</a>
 								<div class="img-wrap">
-									<img src="images/portfolio.png" alt="">
-								</div>
-							</div>
-						</li>
-						<li class="s12 m4 col wow fadeIn" data-wow-delay="0.2s">
-							<div class="wrap">
-								<a href="#" class="overlay-div">
-									<div class="a-wrap">
-										<h5 class="title">Portfolio Title</h5>
-										<p>Read More.</p>									
-									</div>
-									
-								</a>
-								<div class="img-wrap">
-									<img src="images/portfolio.png" alt="">
+									<img src="images/portfolio/julas.png" alt="">
 								</div>
 							</div>
 						</li>
