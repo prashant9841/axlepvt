@@ -108,5 +108,31 @@ $(window).load(function() {
         });
     }
 
+    $('#contact-form').on('submit',function(event){
+        event.preventDefault();
+        var $this = $(this),
+            formName = $this.find('#first_name').val(),
+            formHoney = $this.find('#honey').val(),
+            formEmail = $this.find('#email').val(),
+            formMessage = $this.find('textarea').val();
 
+            console.log(formName + formHoney+formEmail+formMessage);
+        $.ajax({
+            url: 'message.php',
+            type: 'POST',
+            data: {name: formName,honey:formHoney,email: formEmail,message: formMessage },
+        })
+        .done(function(data) {
+            if(data===1)
+            {
+                alert('sent');
+            } else {
+                alert('Error');
+            }
+        })
+        .fail(function() {
+            console.log("error");
+        });
+        
+    });
 });

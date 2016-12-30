@@ -12,12 +12,12 @@
 			</div>
 			<div class="s12 m7 col">
 				<ul class="footer-nav right">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="about.php">About us</a></li>
-					<li><a href="services.php">Services</a></li>
-					<li><a href="portfolio.php">Portfolio</a></li>
-					<li><a href="blog.php">Blog</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="index">Home</a></li>
+					<li><a href="about">About us</a></li>
+					<li><a href="services">Services</a></li>
+					<li><a href="portfolio">Portfolio</a></li>
+					<li><a href="blog">Blog</a></li>
+					<li><a href="contact">Contact</a></li>
 				</ul>
 			</div>
 		</div>

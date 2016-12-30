@@ -44,14 +44,17 @@
 						<h4>Contact Us</h4>
 						<p>Drop us a line</p>
 					</div>
-					<form method=" " action=" ">
+					<form id="contact-form" method="post">
 						<div class="row">
 					        <div class="input-field col s12">
-					          <input placeholder="Your Name Please" id="first_name" type="text" class="validate">
+					          <input placeholder="Your Name Please" id="first_name" type="text" class="validate" required>
 					          <label for="first_name">Name</label>
 					        </div>
+					        <div class="">
+					        	<input type="text" id="honey" name="honey" style="display: none;visibility: hidden;" value="0">
+					        </div>
 					        <div class="input-field col s12">
-					          <input placeholder="Your Email@domain.com" id="email" type="text" class="validate">
+					          <input placeholder="Your Email@domain.com" id="email" type="text" class="validate" required>
 					          <label for="email">Email</label>
 					        </div>
 					        <!-- <div class="input-field col s12">
@@ -59,7 +62,7 @@
 					          <label for="subject">Subject</label>
 					        </div> -->
 					        <div class="input-field col s12">
-					          <textarea id="textarea1" class="materialize-textarea"></textarea>
+					          <textarea id="textarea1" class="materialize-textarea" required></textarea>
 					          <label for="textarea1">Say Something</label>
 					        </div>
 						</div>
