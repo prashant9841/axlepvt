@@ -17,7 +17,7 @@
 		<ul class="bread-crumb">
 			<div class="row">
 				<li><a href="http://axle.com.np">Home</a> > </li>
-				<li><a href="services.php">Services</a> > </li>
+				<li><a href="services">Services</a> > </li>
 				<li><a href="#">Development</a></li>				
 			</div>
 		</ul>

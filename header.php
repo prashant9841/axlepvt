@@ -32,37 +32,37 @@
 			<div class="center-wrap">
 				<div class="header wow fadeIn">Menu</div>
 				<ul class="menu row">
-					<li class="wow fadeIn" data-wow-delay="0.2s"><a href="index.php">
+					<li class="wow fadeIn" data-wow-delay="0.2s"><a href="index">
 						<span class="wrap">
 							<h4>Home</h4>
 							<p>Namaste</p>
 						</span>
 					</a></li>
-					<li class="wow fadeIn" data-wow-delay="0.3s"><a href="about.php">
+					<li class="wow fadeIn" data-wow-delay="0.3s"><a href="about">
 						<span class="wrap">
 							<h4>About</h4>
 							<p>The Agency</p>
 						</span>
 					</a></li>
-					<li class="wow fadeIn" data-wow-delay="0.4s"><a href="services.php">
+					<li class="wow fadeIn" data-wow-delay="0.4s"><a href="services">
 						<span class="wrap">
 							<h4>Services</h4>
 							<p>Tech Partner</p>
 						</span>
 					</a></li>
-					<li class="wow fadeIn" data-wow-delay="0.5s"><a href="portfolio.php">
+					<li class="wow fadeIn" data-wow-delay="0.5s"><a href="portfolio">
 						<span class="wrap">
 							<h4>Working</h4>
 							<p>With Purpose</p>
 						</span>
 					</a></li>
-					<li class="wow fadeIn" data-wow-delay="0.6s"><a href="blog.php">
+					<li class="wow fadeIn" data-wow-delay="0.6s"><a href="blog">
 						<span class="wrap">
 							<h4>Blog</h4>
 							<p>Read Us</p>
 						</span>
 					</a></li>
-					<li class="wow fadeIn" data-wow-delay="0.7s"><a href="contact.php">
+					<li class="wow fadeIn" data-wow-delay="0.7s"><a href="contact">
 						<span class="wrap">
 							<h4>Contact</h4>
 							<p>Drop Us A Line</p>

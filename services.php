@@ -22,7 +22,7 @@
 						<div class="img-wrap">
 							<img src="images/stragety.png" alt="">
 						</div>
-						<a href="strategy.php">
+						<a href="strategy">
 							<p class="flow">Strategy</p>
 						</a>
 						
@@ -32,7 +32,7 @@
 						<div class="img-wrap">
 							<img src="images/designing.png" alt="">
 						</div>
-						<a href="design.php">
+						<a href="design">
 							<p class="flow">Design</p>
 						</a>
 						
@@ -42,7 +42,7 @@
 						<div class="img-wrap">
 							<img src="images/development.png" alt="">
 						</div>
-						<a href="development.php">
+						<a href="development">
 							<p class="flow">Development</p>
 						</a>
 
@@ -52,7 +52,7 @@
 						<div class="img-wrap">
 							<img src="images/innovation.png" alt="">
 						</div>
-						<a href="single-service.php">
+						<a href="single-service">
 							<p class="flow">Innovation</p>
 						</a>
 						
@@ -62,7 +62,7 @@
 						<div class="img-wrap">
 							<img src="images/consultant.png" alt="">
 						</div>
-						<a href="single-service.php">
+						<a href="single-service">
 							<p class="flow">Consultant</p>
 						</a>
 						
@@ -72,7 +72,7 @@
 						<div class="img-wrap">
 							<img src="images/branding.png" alt="">
 						</div>
-						<a href="branding.php">
+						<a href="branding">
 							<p class="flow">Branding</p>
 						</a>
 
@@ -132,7 +132,7 @@
 			<div class="row">
 				<div class="section-footer">
 					<div class="row">
-						<a href="portfolio.php" class="wow zoomIn">view all works</a>
+						<a href="portfolio" class="wow zoomIn">view all works</a>
 					</div>
 				</div>				
 			</div>

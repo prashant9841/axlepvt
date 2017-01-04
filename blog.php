@@ -196,7 +196,7 @@
 				<div class="row"></div>
 				<div class="section-footer">
 					<div class="row">
-						<a href="about.php" class="wow zoomIn">About Axle</a>
+						<a href="about" class="wow zoomIn">About Axle</a>
 					</div>
 				</div>
 			</div>
