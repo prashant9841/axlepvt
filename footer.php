@@ -1,16 +1,16 @@
 	<footer class="page-footer">
 		<div class="row">
 			<div class="s12 m5 col">
-				<p class="left"> Copyright &copy; 2016 Axle Pvt. Ltd.</p>
-				<ul class="left social">
+				<ul class="social right">
 					<li><a href="https://www.facebook.com/axlenepal/"><i class="fa fa-facebook"></i></a></li>
 					<li><a href="https://twitter.com/AxleNepal"><i class="fa fa-twitter"></i></a></li>
 					<li><a href="https://plus.google.com/106798710210607984305"><i class="fa fa-google-plus"></i></a></li>
 					<li><a href="https://www.linkedin.com/company/axle-p-ltd"><i class="fa fa-linkedin"></i></a></li>
 					<li><a href="https://www.instagram.com/axlenepal/"><i class="fa fa-instagram"></i></a></li>
 				</ul>
+				<p class="left"> Copyright &copy; 2016 Axle Pvt. Ltd.</p>
 			</div>
-			<div class="s12 m7 col">
+			<div class="s12 m7 col hide-on-small-only">
 				<ul class="footer-nav right">
 					<li><a href="index">Home</a></li>
 					<li><a href="about">About us</a></li>
@@ -26,7 +26,7 @@
 	<!-- scripts	 -->
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery.mixitup.js"></script>
-	<script src="js/aminateSlider.js"></script>
+	<script src="js/animateSlider.js"></script>
 	<script src="js/wow.min.js"></script>
 	<script src="js/slick.js"></script>
 	<script src="js/particles.js"></script>

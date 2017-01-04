@@ -3,7 +3,7 @@
 //error_reporting(E_ALL);
 if($_POST){
 
-	(isset($_POST['honey']) && $_POST['honey'] != 0) ? die(0) : return ;
+	//(isset($_POST['honey']) && $_POST['honey'] != 0) ? die(0) : return ;
 
 	$servername = "localhost";
 	$username = "root";
@@ -26,10 +26,10 @@ if($_POST){
 		$stmt->bindParam(':message', $message);
 	    // use exec() because no results are returned
 	    if($stmt->execute()){
-	    	return echo 1;
+	    	echo 1;
 	    }
 	    else{
-	    	return echo 0;
+	    	echo 0;
 	    }
     }
 	catch(PDOException $e)

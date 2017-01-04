@@ -446,15 +446,23 @@ section.banner {
 	.banner-wrap {
 		overflow: hidden;
 		height: 88vh;
+		background: url('../images/banner.png') no-repeat;
+		background-size: cover;
+    	background-position: center;
 
-		img {
-			width: 100%;
-
-			@include tab {
-				height: 100%;
-				width: auto;
-			}
+		@include mobile {
+		    background-size: 140vw;
+		    height: 50vh;
 		}
+
+		// img {
+		// 	width: 100%;
+
+		// 	@include tab {
+		// 		height: 100%;
+		// 		width: auto;
+		// 	}
+		// }
 	}
 
 	.nav-open {
@@ -1218,6 +1226,18 @@ section.services {
 
 		}
 	}
+
+	@include mobile {
+		display: none;
+	}
+}
+
+section.mob-news {
+	display: none;
+
+	@include mobile {
+		display: block;
+	}
 }
 
 section.portfolio {
@@ -1229,94 +1249,94 @@ section.portfolio {
 		}
 	}
 
-	.portfolio-lists {
-		li {
-			margin-bottom: 20px;
+	// .portfolio-lists {
+	// 	li {
+	// 		margin-bottom: 20px;
 
-			.wrap {
-				height: 45vh;
-				overflow: hidden;
-				position: relative;
-				padding: 10px;
-				background: #fff;
+	// 		.wrap {
+	// 			height: 45vh;
+	// 			overflow: hidden;
+	// 			position: relative;
+	// 			padding: 10px;
+	// 			background: #fff;
 
-				@include tab {
-					height: 32vh;
-				}
-				@include tab-portrait {
-					height: 18vh;
-				}
+	// 			@include tab {
+	// 				height: 32vh;
+	// 			}
+	// 			@include tab-portrait {
+	// 				height: 18vh;
+	// 			}
 
-				@include mobile {
-					height: 40vh;
-				} 
+	// 			@include mobile {
+	// 				height: 40vh;
+	// 			} 
 
 				
 
-			}
-			.img-wrap {
-				overflow: hidden;
-				width: 100%;
-				height: 100%;
-			}
+	// 		}
+	// 		.img-wrap {
+	// 			overflow: hidden;
+	// 			width: 100%;
+	// 			height: 100%;
+	// 		}
 
-			img {
-				width: 100%;
-				transform: scale(1.1);
-				@include vendor(transition, transform 0.2s linear);
-			}
+	// 		img {
+	// 			width: 100%;
+	// 			transform: scale(1.1);
+	// 			@include vendor(transition, transform 0.2s linear);
+	// 		}
 
-			.overlay-div {
-				position: absolute;
-				opacity: 0;
-				@include vendor(transition, opacity 0.2s linear);
-				height: 93%;
-				width: 95%;
-				padding: 50px;
-				background: rgba(47, 47, 47, 0.5);
-					color: #fff;
-					z-index: 99;
+	// 		.overlay-div {
+	// 			position: absolute;
+	// 			opacity: 0;
+	// 			@include vendor(transition, opacity 0.2s linear);
+	// 			height: 93%;
+	// 			width: 95%;
+	// 			padding: 50px;
+	// 			background: rgba(47, 47, 47, 0.5);
+	// 				color: #fff;
+	// 				z-index: 99;
 
-				.a-wrap	 {					
-				    height: 100%;
-				    border: 1px solid #fff;
-					transform: scale(0.9);
-					@include vendor(transition, transform 0.2s linear);
-				    padding: 20px;
-				    text-align: center;
-				    padding-top: 30px;
+	// 			.a-wrap	 {					
+	// 			    height: 100%;
+	// 			    border: 1px solid #fff;
+	// 				transform: scale(0.9);
+	// 				@include vendor(transition, transform 0.2s linear);
+	// 			    padding: 20px;
+	// 			    text-align: center;
+	// 			    padding-top: 30px;
 
 
-					h5 {
-						font-size: 26px;
-						bottom: 40px;
-						text-align: center;
-					}
+	// 				h5 {
+	// 					font-size: 26px;
+	// 					bottom: 40px;
+	// 					text-align: center;
+	// 				}
 
-					p {
-						text-align: center;
-						margin-top: 20px;
-					}
-				}
+	// 				p {
+	// 					text-align: center;
+	// 					margin-top: 20px;
+	// 				}
+	// 			}
 				
-			}
+	// 		}
 
-			&:hover {
-				.overlay-div {
-					opacity: 1;
+	// 		&:hover {
+	// 			.overlay-div {
+	// 				opacity: 1;
 
-					.a-wrap {
-						transform: scale(1);
+	// 				.a-wrap {
+	// 					transform: scale(1);
 
-					}
-				}
+	// 				}
+	// 			}
 
-				img {
-					transform: scale(1);
-				}
-			}
-		}
-	}
+	// 			img {
+	// 				transform: scale(1);
+	// 			}
+	// 		}
+	// 	}
+	// }
 
 }
 
@@ -1324,6 +1344,10 @@ section.portfolio {
 	.blog-lists {
 		li {
 			padding: 20px !important;
+
+			@include mobile {
+				padding: 20px 0 !important;
+			}
 
 			li {
 				padding: 0 !important;
@@ -1522,6 +1546,14 @@ section.news {
 				width: 70%;
 				margin: 0 15%;
 			}
+
+			@include mobile {
+				min-height: 150px;
+				img {
+					width: 50%;
+					margin: 0 25%;
+				}
+			}
 		}
 
 		.content-wrap {
@@ -1546,10 +1578,19 @@ section.news {
 		&:last-child {
 			width: 34%;
 		}
+
+		@include mobile {
+			width: 100% !important;
+		}
 	}
 
 	.section-footer {
 		margin-top: 50px;
+	}
+}
+section.d-news {
+	@include mobile {
+		display: none;
 	}
 }
 
@@ -1566,18 +1607,39 @@ footer.page-footer {
 		@include tab {
 			width: 96%;
 		}
+
+		@include mobile {
+			text-align: center;
+		}
 		ul li {
 			display: inline-block;
 		}
 
 		p {
 			font-size: 12px;
+
+			@include mobile {
+				float: none !important;
+				margin: 20px;
+			}
 		}
 
 		.social {
 			margin-left: 20px;
 			margin-bottom: 0;
 			margin-top: 8px;
+			@include mobile {
+				float: none !important;
+				margin: 30px 0 !important;
+
+				li {
+					margin-left: 20px;
+
+					&:first-child {
+						margin-left: 0;
+					}
+				}
+			}
 			li {
 				a {
 					font-size: 12px;
@@ -1923,6 +1985,11 @@ footer.page-footer {
 					font-weight: bold;
 					// margin-bottom: 5px;
 					margin-top: 70px;
+					color: #5a5a5a;
+
+					&:hover {
+						color: #aaa;
+					}
 				}
 
 				p {
@@ -2092,13 +2159,23 @@ footer.page-footer {
 	.service-item {
 		margin-left: 40px;
 		position: relative;
-		i {
-			position: absolute;
-			left: -75px;
-			top: 12px;
-			font-size: 70px !important;
 
+		p.title {
+			margin-bottom: 30px;
+			text-transform: capitalize;
+
+			span {
+			    position: absolute;
+			    top: 35px;
+			    display: block;
+			    width: 145px;
+			    height: 3px;
+			    background: #5a5a5a;
+			    left: 0;
+			}
 		}
+
+	
 	}
 
 	.intro {
@@ -2372,7 +2449,7 @@ footer.page-footer {
 	}
 }
 
-.portfolio-page {
+.portfolio-page, section.portfolio {
 	.portfolio-lists {
 		li {
 			margin-bottom: 20px;
@@ -2454,6 +2531,20 @@ footer.page-footer {
 			}
 
 			&:hover {
+				.overlay-div {
+					opacity: 1;
+
+					.a-wrap {
+						transform: scale(1);
+
+					}
+				}
+
+				img {
+					transform: scale(1);
+				}
+			}
+			@include mobile {
 				.overlay-div {
 					opacity: 1;
 

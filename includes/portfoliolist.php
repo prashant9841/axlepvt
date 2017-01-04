@@ -1,20 +1,5 @@
-<?php include 'header.php'; ?>
-	<div class="page-wrap portfolio-page inside-page">
-		<section class="banner boxed" id="banner">
-			<div class="banner-wrap">
-				<div class="page-head" id="page-head">
-					<h1><span>Our</span><br><span>Works</span></h1>
-				</div>
-				<div class="page-img">
-					<img src="images/blog-banner.png" alt="">
-				</div>
-			</div>
-			<div class="nav-open">
-				<i class="fa fa-bars"></i>
-			</div>
-		</section>
 
-		<section class="">
+		<section class="portfolio">
 			<div class="row">
 				<div class="section-title m10 offset-m2 col">
 					<h3 class="wow fadeIn">Portfolio</h3>
@@ -120,7 +105,3 @@
 				</div>
 			</div>
 		</section>
-
-	</div>
-
-<?php include 'footer.php'; ?>

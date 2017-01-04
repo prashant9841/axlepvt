@@ -6,7 +6,7 @@
 					<h1><span>Our</span><br><span>Services</span></h1>
 				</div>
 				<div class="page-img">
-					<img src="images/download.png" alt="">
+					<img src="images/services-banner.png" alt="">
 				</div>
 			</div>
 			<div class="nav-open">
@@ -18,7 +18,7 @@
 			<div class="row wrap">
 			
 				<ul class="services-list">
-					<li class="col s12 m4" >
+					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.2s" >
 						<div class="img-wrap">
 							<img src="images/stragety.png" alt="">
 						</div>
@@ -26,9 +26,9 @@
 							<p class="flow">Strategy</p>
 						</a>
 						
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
+						
 					</li>
-					<li class="col s12 m4" >
+					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.4s" >
 						<div class="img-wrap">
 							<img src="images/designing.png" alt="">
 						</div>
@@ -36,9 +36,9 @@
 							<p class="flow">Design</p>
 						</a>
 						
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
+						
 					</li>
-					<li class="col s12 m4" >
+					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.6s" >
 						<div class="img-wrap">
 							<img src="images/development.png" alt="">
 						</div>
@@ -46,9 +46,9 @@
 							<p class="flow">Development</p>
 						</a>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
+						
 					</li>
-					<li class="col s12 m4" >
+					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.7s" >
 						<div class="img-wrap">
 							<img src="images/innovation.png" alt="">
 						</div>
@@ -56,9 +56,9 @@
 							<p class="flow">Innovation</p>
 						</a>
 						
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
+						
 					</li>
-					<li class="col s12 m4" >
+					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.8s" >
 						<div class="img-wrap">
 							<img src="images/consultant.png" alt="">
 						</div>
@@ -66,9 +66,9 @@
 							<p class="flow">Consultant</p>
 						</a>
 						
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
+						
 					</li>
-					<li class="col s12 m4">
+					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.9s">
 						<div class="img-wrap">
 							<img src="images/branding.png" alt="">
 						</div>
@@ -76,7 +76,7 @@
 							<p class="flow">Branding</p>
 						</a>
 
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium vitae nostrum nulla illo aspernatur saepe natus deserunt, odio quia consectetur veniam recusandae neque sunt autem!</p>
+						
 					</li>
 				</ul>				
 			</div>

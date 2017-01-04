@@ -3,10 +3,53 @@
 	<div class="page-wrap home-page">
 		<section class="banner boxed" id="banner">
 			<div class="banner-wrap">
-				<img src="images/banner.png" alt="">			
+				<!-- <img src="images/banner.png" alt="">			 -->
 			</div>
 			<div class="nav-open">
 				<i class="fa fa-bars"></i>
+			</div>
+		</section>
+
+		<section class="news mob-news">
+			<div class="row">
+				<div class="section-content row">
+
+					<div class="news-item wow fadeIn">
+						<div class="img-wrap">
+							<img src="images/business.png" alt="">
+						</div>
+						<div class="content-wrap">
+							<h4>Business Applications</h4>
+							<p>Boost productivity of your business by developing full-stack applications that runs smoothly across all devices. We also provide monitoring and maintenance for your applications.</p>
+						</div>
+					</div>
+
+					<div class="news-item wow fadeIn" data-wow-delay="0.2s">
+						<div class="img-wrap">
+							<img src="images/social.png" alt="">
+						</div>
+						<div class="content-wrap">
+							<h4>Social Media Marketing</h4>
+							<p>Reach your target audience with social media marketing.Be aware, you might get overflowed by the number of customers.</p>
+						</div>
+					</div>
+
+					<div class="news-item wow fadeIn" data-wow-delay="0.4s">
+						<div class="img-wrap">
+							<img src="images/think.png" alt="">
+						</div>
+						<div class="content-wrap">
+							<h4>Think Big</h4>
+							<p>We are creative free thinkers incorporating the technology's at full potential. We see the big picture to every ideas and implement in our products. </p>
+						</div>
+					</div>
+
+				</div>			
+				<div class="section-footer">
+					<div class="row">
+						<a href="http://axle.com.np/contact" class="wow zoomIn">Start A Project</a>
+					</div>
+				</div>
 			</div>
 		</section>
 
@@ -253,7 +296,7 @@
 			</div>
 		</section>
 
-		<section class="news">
+		<section class="news d-news">
 			<div class="row">
 				<div class="section-content row">
 

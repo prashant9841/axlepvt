@@ -6,7 +6,7 @@
 					<h1><span>Our</span><br><span>Blog</span></h1>
 				</div>
 				<div class="page-img">
-					<img src="images/download.png" alt="">
+					<img src="images/blog-banner.png" alt="">
 				</div>
 			</div>
 			<div class="nav-open">

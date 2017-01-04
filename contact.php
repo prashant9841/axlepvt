@@ -44,7 +44,7 @@
 						<h4>Contact Us</h4>
 						<p>Drop us a line</p>
 					</div>
-					<form id="contact-form" method="post">
+					<form id="contact-form" method="post" >
 						<div class="row">
 					        <div class="input-field col s12">
 					          <input placeholder="Your Name Please" id="first_name" type="text" class="validate" required>
@@ -67,7 +67,7 @@
 					        </div>
 						</div>
 						<div class="submit-div">
-							<button>Submit</button>
+							<button type="submit">Submit</button>
 						</div>			
 					</form>
 				</div>
