@@ -1687,6 +1687,10 @@ footer.page-footer {
 	section.banner {
 		padding-bottom: 0;
 		border: none !important;
+
+		img {
+			min-height: 100%;
+		}
 	}
 	section {
 		margin: 0 4%;
@@ -2287,6 +2291,11 @@ footer.page-footer {
 
 
 .contact-page {
+	.banner {
+		.page-img {
+			background: rgba(#000, 0.2);
+		}
+	}
 	.contact-form {
 		background: #eee;
 		margin: 0 4%;

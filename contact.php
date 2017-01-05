@@ -6,7 +6,7 @@
 					<h1><span>Contact</span><br><span>Us</span></h1>
 				</div>
 				<div class="page-img">
-					<img src="images/download.png" alt="">
+					<img src="images/contact-banner.jpg" alt="">
 				</div>
 			</div>
 			<div class="nav-open">
