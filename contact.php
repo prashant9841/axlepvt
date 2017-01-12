@@ -25,7 +25,7 @@
 					</div>
 					<div class="row">
 						<ul>
-							<li><a href="#"><i class="fa fa-phone"></i> 01-5547326</a></li>
+							<li><a href="tel:01-5547326"><i class="fa fa-phone"></i> 01-5547326</a></li>
 							<li><a href="#"><i class="fa fa-phone"></i> 01-5547320</a></li>
 							<li><a href="#"><i class="fa fa-fax"></i> 01-5547326</a></li>
 							<li><a href="#"><i class="fa fa-envelope"></i> info@axle.com.np</a></li>

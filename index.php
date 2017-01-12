@@ -220,20 +220,20 @@
 									</div>
 									<div class="left">
 										<ul class="social left">
-											<li><a href="#">Some catagory</a></li>
-											<li><a href="#">Some catagory</a></li>
+											<li><a href="#">branding</a></li>
+											<li><a href="#">web</a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="img-wrap">
 									<a href="#">
-										<img src="images/blog.png" alt="">
+										<img src="images/blog-2.png" alt="">
 									</a>
 								</div>
 								<div class="content-wrap">
 									<div class="row">
 										<a href="#">
-											<h5 class="left">Workshop</h5>
+											<h5 class="left">Web Design</h5>
 										</a>
 									</div>
 									<div class="row">
@@ -259,20 +259,20 @@
 									</div>
 									<div class="left">
 										<ul class="social left">
-											<li><a href="#">Some catagory</a></li>
-											<li><a href="#">Some catagory</a></li>
+											<li><a href="#">tech</a></li>
+											<li><a href="#">branding</a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="img-wrap">
 									<a href="#">
-										<img src="images/blog.png" alt="">
+										<img src="images/blog-1.png" alt="">
 									</a>
 								</div>
 								<div class="content-wrap">
 									<div class="row">
 										<a href="#">
-											<h5 class="left">Workshop</h5>
+											<h5 class="left">Business Apps</h5>
 										</a>
 									</div>
 									<div class="row">
