@@ -53,38 +53,23 @@
 			</div>
 		</section>
 
-		<section class="services" id="services">
-			<div class="row">
-				<div class="logo-div">
-					<img src="images/small-logo.png" class=" wow zoomIn" alt="">
-				</div>
-				<div class="services-lists">
-					<ul>
-						<li class="wow fadeIn" data-wow-delay="0.6s"><a href="strategy">Strategy</a><div class="border"></div></li>
-						<li class="wow fadeIn" data-wow-delay="0.8s"><a href="design">Design</a><div class="border"></div></li>
-						<li class="wow fadeIn" data-wow-delay="1s"><a href="development">Development</a><div class="border"></div></li>
-						<li class="wow fadeIn" data-wow-delay="1.2s"><a href="#">Innovation</a><div class="border"></div></li>
+		<section class="ideas">
+			<div class="wrap">
+				<div class="inner-wrap">
+					<div class="logo-div">
+						<img class="wow zoomIn" src="images/logo.png" alt="">
+					</div>
+					<ul class="ids">
+						<div class="li-wrap">
+							<li class="wow zoomIn" data-wow-delay="0.3s"><a href="#"><img src="images/idea1.png" alt=""></a></li>
+							<li class="wow zoomIn" data-wow-delay="0.5s"><a href="#"><img src="images/idea2.png" alt=""></a></li>
+							<li class="wow zoomIn" data-wow-delay="0.7s"><a href="#"><img src="images/idea3.png" alt=""></a></li>
+							<li class="wow zoomIn" data-wow-delay="0.8s"><a href="#"><img src="images/idea4.png" alt=""></a></li>
+							<li class="wow zoomIn" data-wow-delay="0.9s"><a href="#"><img src="images/idea5.png" alt=""></a></li>
+							<li class="wow zoomIn" data-wow-delay="1s"><a href="#"><img src="images/idea6.png" alt=""></a></li>							
+						</div>
 					</ul>
 				</div>
-			</div>
-			<div class="shapes">
-				<div class="shape g3 g1 one"><div class="hexagon"></div></div>
-				<div class="shape g4 g1 two"><div class="hexagon"></div></div>
-				<div class="shape g3 g1 three"><div class="hexagon"></div></div>
-				<div class="shape g4 g1 four"><div class="hexagon"></div></div>
-				<div class="shape g3 g1 five"><div class="hexagon"></div></div>
-				<div class="shape g4 g2 six"><div class="hexagon"></div></div>
-				<div class="shape g3 g2 seven"><div class="hexagon"></div></div>
-				<div class="shape g4 g2 eight"><div class="hexagon"></div></div>
-				<div class="shape g3 g2 nine"><div class="hexagon"></div></div>
-				<div class="shape g4 g2 ten"><div class="hexagon"></div></div>
-				<div class="shape g3 g2 eleven"><div class="hexagon"></div></div>
-				<div class="shape g4 g2 twelve"><div class="hexagon"></div></div>
-				<div class="shape g3 g2 therteen"><div class="hexagon"></div></div>
-				<div class="shape g4 g2 fourteen"><div class="hexagon"></div></div>
-				<div class="shape g3 g2 fifteen"><div class="hexagon"></div></div>
-				<div class="shape g4 g2 sixteen"><div class="hexagon"></div></div>
-				<div class="shape g3 g2 seventeen"><div class="hexagon"></div></div>
 			</div>
 		</section>
 

@@ -100,7 +100,7 @@
 				<div class="row"></div>
 				<div class="section-footer">
 					<div class="row">
-						<a href="blog" class="wow zoomIn">Our Blog</a>
+						<a href="portfolio" class="wow zoomIn">View All</a>
 					</div>
 				</div>
 			</div>

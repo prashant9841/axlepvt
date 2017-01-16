@@ -3,7 +3,7 @@
 		<section class="banner boxed" id="banner">
 			<div class="banner-wrap">
 				<div class="page-head" id="page-head">
-					<h1><span>Development</span><br></h1>
+					<h1 style="font-size: 4em;"><span>Development</span><br></h1>
 				</div>
 				<div class="page-img">
 					<img src="images/services-banner.png" alt="">

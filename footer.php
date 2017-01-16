@@ -32,11 +32,10 @@
 	<script src="js/particles.js"></script>
 	<script src="js/lettering.js"></script>
 	<script src="js/textillate.js"></script>
-	<script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAujn52Zl9Aqn2HoDVlEeSSr_RH5QeLhDw&callback=initMap">
-    </script>
-	</script>
-	<script src="js/gmaps.js"></script>
+	<!-- <script src="js/gmaps.js"></script> -->
 	<script src="js/custom.js"></script>
+	<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAOaKHY3RMxylkrHWjkRHtTKkBGmNtZLs&callback=initMap">
+    </script>
 </body>
 </html>

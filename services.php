@@ -19,60 +19,60 @@
 			
 				<ul class="services-list">
 					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.2s" >
-						<div class="img-wrap">
-							<img src="images/stragety.png" alt="">
-						</div>
 						<a href="strategy">
+							<div class="img-wrap">
+								<img src="images/stragety.png" alt="">
+							</div>
 							<p class="flow">Strategy</p>
 						</a>
 						
 						
 					</li>
 					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.4s" >
-						<div class="img-wrap">
-							<img src="images/designing.png" alt="">
-						</div>
 						<a href="design">
+							<div class="img-wrap">
+								<img src="images/designing.png" alt="">
+							</div>
 							<p class="flow">Design</p>
 						</a>
 						
 						
 					</li>
 					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.6s" >
-						<div class="img-wrap">
-							<img src="images/development.png" alt="">
-						</div>
 						<a href="development">
+							<div class="img-wrap">
+								<img src="images/development.png" alt="">
+							</div>
 							<p class="flow">Development</p>
 						</a>
 
 						
 					</li>
 					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.7s" >
-						<div class="img-wrap">
-							<img src="images/innovation.png" alt="">
-						</div>
 						<a href="single-service">
+							<div class="img-wrap">
+								<img src="images/innovation.png" alt="">
+							</div>
 							<p class="flow">Innovation</p>
 						</a>
 						
 						
 					</li>
 					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.8s" >
-						<div class="img-wrap">
-							<img src="images/consultant.png" alt="">
-						</div>
 						<a href="single-service">
+							<div class="img-wrap">
+								<img src="images/consultant.png" alt="">
+							</div>
 							<p class="flow">Consultant</p>
 						</a>
 						
 						
 					</li>
 					<li class="col s12 m4 wow zoomIn" data-wow-delay="0.9s">
+						<a href="branding">
 						<div class="img-wrap">
 							<img src="images/branding.png" alt="">
 						</div>
-						<a href="branding">
 							<p class="flow">Branding</p>
 						</a>
 

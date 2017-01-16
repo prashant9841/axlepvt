@@ -514,7 +514,7 @@ section {
 			p {
 				width: 400px;
 				// margin: 0;
-				@include line-clamp(20px, 3);
+				@include line-clamp(20px, 6);
 				margin-bottom: 0;
 
 			}
@@ -551,7 +551,7 @@ section {
 }
 
 section.services {
-	height: 90vh;
+	height: 100vh;
 	position: relative;
 	overflow: hidden;
 
@@ -1566,7 +1566,7 @@ section.news {
 
 			p {
 				font-size: 15px;
-				@include line-clamp(21px, 3);
+				@include line-clamp(21px, 8);
 				width: 80%;
 				margin: 0 auto;
 			}
@@ -1855,94 +1855,94 @@ footer.page-footer {
 			width: 100%;
 		}
 	}
-	.ideas {
-		.wrap {
-			min-height: 100vh;
-			width: 70%;
-			margin: 0 auto;
-			padding: 15vh 0;
-			position: relative;
+}
+.ideas {
+	.wrap {
+		min-height: 100vh;
+		width: 70%;
+		margin: 0 auto;
+		padding: 15vh 0;
+		position: relative;
 
-			.inner-wrap {
-				width: 100%;
-				height: 100%;
+		.inner-wrap {
+			width: 100%;
+			height: 100%;
 
-				.logo-div {
+			.logo-div {
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				width: 130px;
+				height: 50px;
+				transform: translate(-50%, -50%);
+			}
+
+			ul.ids {
+				position: absolute;
+			    height: 50px;
+			    width: 130px;
+			    top: -50px;
+			    left: -20px;
+			    bottom: 0;
+			    right: 0;
+			    margin: auto;
+
+			    .li-wrap	{
+			    	position: relative;
+			    	height: 50px;
+			    	width: 130px;
+			    }
+
+				li {
 					position: absolute;
-					left: 50%;
-					top: 50%;
-					width: 130px;
-					height: 50px;
-					transform: translate(-50%, -50%);
-				}
+					top: 0;
+					left: 0;
 
-				ul.ids {
-					position: absolute;
-				    height: 50px;
-				    width: 130px;
-				    top: -50px;
-				    left: -20px;
-				    bottom: 0;
-				    right: 0;
-				    margin: auto;
+					img {
+						width: 120%;
+					}
 
-				    .li-wrap	{
-				    	position: relative;
-				    	height: 50px;
-				    	width: 130px;
-				    }
-
-					li {
-						position: absolute;
-						top: 0;
-						left: 0;
+					&:nth-child(1) {
+						transform: translate(-70%, -82%);
 
 						img {
-							width: 120%;
+							width: 134%;
+						}
+					}
+					&:nth-child(2) {
+						transform: translate(54%, -83%);
+					}
+					&:nth-child(3) {
+						transform: translate(108%, -20%);
+						img {
+							width: 125%;
 						}
 
-						&:nth-child(1) {
-    						transform: translate(-70%, -82%);
+					}
+					&:nth-child(4) {
+						transform: translate(53%, 55%);
 
-    						img {
-    							width: 134%;
-    						}
+					}
+					&:nth-child(5) {
+						transform: translate(-72%, 55%);
+
+						img {
+							width: 132%;
 						}
-						&:nth-child(2) {
-    						transform: translate(54%, -83%);
-						}
-						&:nth-child(3) {
-    						transform: translate(108%, -20%);
-    						img {
-    							width: 125%;
-    						}
 
-						}
-						&:nth-child(4) {
-    						transform: translate(53%, 55%);
+					}
+					&:nth-child(6) {
+						transform: translate(-130%, -20%);
 
-						}
-						&:nth-child(5) {
-    						transform: translate(-72%, 55%);
-
-    						img {
-    							width: 132%;
-    						}
-
-						}
-						&:nth-child(6) {
-    						transform: translate(-130%, -20%);
-
-    						img {
-    							width: 151%;
-    						}
+						img {
+							width: 151%;
 						}
 					}
 				}
 			}
 		}
-	}	
-}
+	}
+}	
 
 
 .services-page {
@@ -2036,6 +2036,21 @@ footer.page-footer {
 			margin: 0 auto;
 			padding-top: 15%;
 
+			.img-wrap {
+				img {
+					min-width: 25vw;
+				}
+			}
+
+			h5 {
+				font-size: 3vw;
+			}
+
+			p {
+				font-size: 1.5vw;
+				margin-top: 6vh;
+			}
+
 			@include tab {
 				padding-top: 28%;
 
@@ -2062,6 +2077,21 @@ footer.page-footer {
 			width: 80%;
 			margin: 0 auto;
 			padding-top: 15%;
+
+			.img-wrap {
+				img {
+					min-width: 25vw;
+				}
+			}
+
+			h5 {
+				font-size: 3vw;
+			}
+
+			p {
+				font-size: 1.5vw;
+				margin-top: 6vh;
+			}
 
 			@include tab {
 				padding-top: 28%;
@@ -2091,6 +2121,21 @@ footer.page-footer {
 			margin: 0 auto;
 			padding-top: 15%;
 
+			.img-wrap {
+				img {
+					min-width: 25vw;
+				}
+			}
+
+			h5 {
+				font-size: 3vw;
+			}
+
+			p {
+				font-size: 1.5vw;
+				margin-top: 6vh;
+			}
+
 			@include tab {
 				padding-top: 28%;
 
@@ -2117,6 +2162,21 @@ footer.page-footer {
 			width: 80%;
 			margin: 0 auto;
 			padding-top: 15%;
+
+			.img-wrap {
+				img {
+					min-width: 25vw;
+				}
+			}
+
+			h5 {
+				font-size: 3vw;
+			}
+
+			p {
+				font-size: 1.5vw;
+				margin-top: 6vh;
+			}
 
 			@include tab {
 				padding-top: 28%;
@@ -2366,6 +2426,10 @@ footer.page-footer {
 					background: #eee;
 					border-radius: 5px;
 					text-indent: 15px;
+				}
+
+				textarea {
+					min-height: 10rem;
 				}
 
 				input {
