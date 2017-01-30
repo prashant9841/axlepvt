@@ -20,6 +20,7 @@
 					<div class="col s12 m6">
 						<h3>Welcome</h3>
 						<p>Welcome to the age of innovation and technology. We invite you to become a bigger part of the picture while developing your next dream project, whether be it a normal site or enterprise software  that encompasses all your needs. We embark latest technologies which keeps of ahead of the game with user centric design. <br>Welcome to Axle. Welcome Home. </p>
+						
 					</div>
 					<div class="col s12 m6">
 						<img src="images/about.png" alt="">
@@ -66,12 +67,15 @@
 			<div class="wrap">
 				<div class="row">
 					<div class="col s12 m10 offset-m1">
-						<h3>Our Team</h3>
+						<h3>Overview</h3>
+						<p>
+							Welcome to Axle. Wondering who we are ? Simply, the term "axle" itself gives you a meaning that connects something. Yes, Axle i.e. we work here to connect your consumer and your business. And then, be a rope towards the virtual world. Our main perception is to introduce the significance of ICT in Nepalese market and help to cope up the Nepalese market on international platform. We believe that IT is the most powerful tool for business . And, want to ensure others as well and make a new beginning towards innovation and technologies. So, wisely choosing every steps, we work to the optimum level of our height and engross you in our creativity and and build confidence that you can rely on us.
+						</p>
 						<p>
 							Innovative computer enthusiasts individuals who truly believe the perks of technology. <br>
 							Creative and free thinkers who evaluate and create the perfect design to target a group. <br>
 							Goal oriented team ,who helps you to ship the product that you always wanted. <br>
-							Our goal is to make you connect with your customers/ users. <br>
+							Our goal is to make you connect with your customers and users. <br>
 
 						</p>
 					</div>

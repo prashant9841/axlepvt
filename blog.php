@@ -43,15 +43,15 @@
 									</div>
 								</div>
 								<div class="img-wrap">
-									<a href="">
-										<img src="images/blog.png" alt="">
+									<a href="blog-design">
+										<img src="images/blog-2.png" alt="">
 									</a>
 								</div>
 								<div class="content-wrap">
 									<div class="row">
 										<a href="">
 											
-											<h5 class="left">Workshop</h5>
+											<h5 class="left">Web Design</h5>
 										</a>
 									</div>
 									<div class="row">
@@ -60,12 +60,54 @@
 											<li><i class="fa fa-comment"></i> 4 comments</li>
 										</ul>
 									</div>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
+									<p>The term ‘web design’ normally clarify it as a designing  process of a website including writing mark up that relates to the front-end i.e. client side design.</p>
 									
 								</div>
 							</div>
 						</li>
 						<li class="s12 col wow fadeIn" data-wow-delay="0.8s">
+							<div class="wrap hoverable">
+								<div class="title-wrap row">
+									<div class="right">
+										<ul class="social right">
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										</ul>
+									</div>
+									<div class="left">
+										<ul class="social left">
+											<li><a href="#">Some catagory</a></li>
+											<li><a href="#">Some catagory</a></li>
+											<li><a href="#">Some catagory</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="img-wrap">
+									<a href="blog-business">
+										<img src="images/blog-1.png" alt="">
+									</a>
+								</div>
+								<div class="content-wrap">
+									<div class="row">
+										<a href="blog-business">
+											
+											<h5 class="left">Business Apps</h5>
+										</a>
+									</div>
+									<div class="row">
+										<ul>
+											<li><i class="fa fa-calendar"></i> 22 oct 2016</li>
+											<li><i class="fa fa-comment"></i> 4 comments</li>
+										</ul>
+									</div>
+									<p>Any software or set of computer programs used by business users to perform various business functions is termed as “business application”.  Business applications are specifically used to increase and measure productivity and perform other tasks of business in an accurate form. .</p>
+									
+								</div>
+							</div>
+						</li>
+						<!-- <li class="s12 col wow fadeIn" data-wow-delay="0.8s">
 							<div class="wrap hoverable">
 								<div class="title-wrap row">
 									<div class="right">
@@ -148,49 +190,7 @@
 									
 								</div>
 							</div>
-						</li>
-						<li class="s12 col wow fadeIn" data-wow-delay="0.8s">
-							<div class="wrap hoverable">
-								<div class="title-wrap row">
-									<div class="right">
-										<ul class="social right">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										</ul>
-									</div>
-									<div class="left">
-										<ul class="social left">
-											<li><a href="#">Some catagory</a></li>
-											<li><a href="#">Some catagory</a></li>
-											<li><a href="#">Some catagory</a></li>
-										</ul>
-									</div>
-								</div>
-								<div class="img-wrap">
-									<a href="">
-										<img src="images/blog.png" alt="">
-									</a>
-								</div>
-								<div class="content-wrap">
-									<div class="row">
-										<a href="">
-											
-											<h5 class="left">Workshop</h5>
-										</a>
-									</div>
-									<div class="row">
-										<ul>
-											<li><i class="fa fa-calendar"></i> 22 oct 2016</li>
-											<li><i class="fa fa-comment"></i> 4 comments</li>
-										</ul>
-									</div>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
-									
-								</div>
-							</div>
-						</li>
+						</li> -->
 					</ul>
 				</div>
 				<div class="row"></div>

@@ -26,6 +26,14 @@
 			<div class="wrap">
 				
 				<div class="content">
+					<p>Seeing the every aspect of business as a whole; branding strategy also signifies itself as a counted characteristic of the business. It’s the growth engine that drives your business. Your brand strategy shows how, what, where, when and to whom you specify for communication and delivers your brand messages and related stuffs. It concerns in creating an image and name for a product in the consumer’s mind, basically through advertising campaigns with an unfluctuating theme. Branding strategy represents the consumers that what they can expect from your products/services and distinguish your business from the other competitors available in the market.</p>
+					<p>
+					Before everything, the core part of your brand is your logo. Your website, packaging and promotional activities- all of them should link with your brand logo and express your brand. Similarly, walking by the path of story development, it also acts in a major role. Developing a good story of company and its service environment of the product fortifies a brand, amplifies its strength and aids in reaching a target audience. 
+					</p>
+					<p>
+					Every steps of business should be taken wisely with a well-array terms which participate every person’s view. Focusing on the branding strategy, we persuade to stabilise the presence of your product in the market with a  significant flow.
+					AXLE possess a large talent pool and takes care of all electronic branding initiatives in-house. From the moment you be the part of us, you’ll be collaborating with every artist, designer, SEO specialists, and account managers who will be shaping your brand and product.
+					</p>
 					<div class="service-item wow fadeIn" data-wow-offset="60">
 						<p class="title"><b>BRAND STANDARD GUIDELINES</b></p>
 						<p>Cohesion. Consistency. Maintaining a level of value and excellence. </p>
