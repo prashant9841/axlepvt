@@ -1250,94 +1250,7 @@ section.portfolio {
 		}
 	}
 
-	// .portfolio-lists {
-	// 	li {
-	// 		margin-bottom: 20px;
-
-	// 		.wrap {
-	// 			height: 45vh;
-	// 			overflow: hidden;
-	// 			position: relative;
-	// 			padding: 10px;
-	// 			background: #fff;
-
-	// 			@include tab {
-	// 				height: 32vh;
-	// 			}
-	// 			@include tab-portrait {
-	// 				height: 18vh;
-	// 			}
-
-	// 			@include mobile {
-	// 				height: 40vh;
-	// 			} 
-
-				
-
-	// 		}
-	// 		.img-wrap {
-	// 			overflow: hidden;
-	// 			width: 100%;
-	// 			height: 100%;
-	// 		}
-
-	// 		img {
-	// 			width: 100%;
-	// 			transform: scale(1.1);
-	// 			@include vendor(transition, transform 0.2s linear);
-	// 		}
-
-	// 		.overlay-div {
-	// 			position: absolute;
-	// 			opacity: 0;
-	// 			@include vendor(transition, opacity 0.2s linear);
-	// 			height: 93%;
-	// 			width: 95%;
-	// 			padding: 50px;
-	// 			background: rgba(47, 47, 47, 0.5);
-	// 				color: #fff;
-	// 				z-index: 99;
-
-	// 			.a-wrap	 {					
-	// 			    height: 100%;
-	// 			    border: 1px solid #fff;
-	// 				transform: scale(0.9);
-	// 				@include vendor(transition, transform 0.2s linear);
-	// 			    padding: 20px;
-	// 			    text-align: center;
-	// 			    padding-top: 30px;
-
-
-	// 				h5 {
-	// 					font-size: 26px;
-	// 					bottom: 40px;
-	// 					text-align: center;
-	// 				}
-
-	// 				p {
-	// 					text-align: center;
-	// 					margin-top: 20px;
-	// 				}
-	// 			}
-				
-	// 		}
-
-	// 		&:hover {
-	// 			.overlay-div {
-	// 				opacity: 1;
-
-	// 				.a-wrap {
-	// 					transform: scale(1);
-
-	// 				}
-	// 			}
-
-	// 			img {
-	// 				transform: scale(1);
-	// 			}
-	// 		}
-	// 	}
-	// }
+	
 
 }
 
@@ -2632,6 +2545,19 @@ footer.page-footer {
 					transform: scale(1);
 				}
 			}
+		}
+	}
+}
+
+.blog-page-inside {
+	.the-content {
+		font-size: 17px;
+		line-height: 24px;
+	}
+	ul.bullet {
+		padding-left: 20px;
+		li {
+			list-style: disc;
 		}
 	}
 }

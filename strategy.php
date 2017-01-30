@@ -26,9 +26,15 @@
 			<div class="wrap">
 				
 				<div class="content">
+					<p>
+						Essentially, the first foremost thing that every person spot is the content writing. The content writing must embrace and concern every part of the business work that quench the client needs. Business goals are achieved by widening the footprint of a site’s content. Following the pattern, content should be presented in well timed situation observing the bound nature.
+
+						In the path of strategy; the core heart is the SEO (search engine optimisation). It is the process that affects the visibility of a website in web search engine’s unpaid results i.e. often caused ‘natural’ , ‘organic’ or ‘earned’ results. Every commoner use search engine sites like Google, Yahoo and Microsoft search as a main tool for drawing out the information. It’s proven to be one of the most cost-effective forms of search marketing available, and we grasp this moment by using our knowledge and creative vision of ever-changing search engine algorithms and how their system operate. And, the outcome is more visible in online for your site and which helps to gain in the rankings of major search engines. The ways of our SEO is 100% true blue and follows the code of conduct. 
+						The most important part is now, that; who has logged in and perusing your site. Scrolling the pages should not be felt boring and moving to new page should make an environment of joy. Gathering the information should be easy and quick. Even, the text part should be in simple language and easily understandable.
+					</p>
 					<div class="service-item wow fadeIn" data-wow-offset="60">
 
-						<p class="title"><b>content strategy</b></p>
+						<p class="title"><b>Content strategy</b></p>
 						<p>Content strategy is about more than just the written word. It consists of delivering the correct content to the appropriate user at the right time. This requires strategic planning, development, and management of all types of content, considering how the content might be re-distributed or re-purposed into other delivery channels.</p>
 						<p> Business goals are achieved by maximizing the impact of a site’s content. Content strategy defines the entire process for content development within a project.</p>
 					</div>

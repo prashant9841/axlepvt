@@ -227,7 +227,7 @@
 											<li><i class="fa fa-comment"></i> 4 comments</li>
 										</ul>
 									</div>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
+									<p>The term ‘web design’ normally clarify it as a designing  process of a website including writing mark up that relates to the front-end i.e. client side design.</p>
 								</div>
 							</div>
 						</li>
@@ -266,7 +266,7 @@
 											<li><i class="fa fa-comment"></i> 4 comments</li>
 										</ul>
 									</div>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, nam quibusdam neque libero consectetur, aliquam veritatis, eum totam obcaecati quisquam deserunt dolorem optio itaque autem labore ipsam incidunt inventore. Eaque.</p>
+									<p>The term ‘web design’ normally clarify it as a designing  process of a website including writing mark up that relates to the front-end i.e. client side design.</p>
 								</div>
 							</div>
 						</li>
