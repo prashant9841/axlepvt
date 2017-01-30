@@ -1,4 +1,7 @@
-<?php include 'header.php'; ?>
+<?php 
+include 'includes/functions.php';
+site_info('Development','We Develope Contents ');
+include 'header.php'; ?>
 	<div class="page-wrap inside-service-page inside-page">
 		<section class="banner boxed" id="banner">
 			<div class="banner-wrap">

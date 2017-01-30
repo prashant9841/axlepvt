@@ -3,7 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0 " />
-	<title>Axle | Website</title>
+	<title><?php echo $site_title ?> | Axle </title>
+	<meta name="description" content="<?php echo $site_description; ?>"/>
 	<link rel="stylesheet" href="stylesheets/materialize.css">
 	<link rel="stylesheet" href="stylesheets/animate.css">
 	<link rel="stylesheet" href="stylesheets/animateSlider.css">

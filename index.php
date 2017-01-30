@@ -1,4 +1,7 @@
-<?php include 'header.php'; ?>
+<?php 
+include 'includes/functions.php';
+site_info('HOME','Description goes Here');
+include 'header.php'; ?>
 	
 	<div class="page-wrap home-page">
 		<section class="banner boxed" id="banner">
